@@ -4,7 +4,7 @@ I am a Financial Engineering student at ESILV.
 
 **Main project: [Financial Analysis Dashboard](https://github.com/Departement-de-l-Aude/app-finances-departements)**
 
-During my internship at the Finance Department of the Aude Council, I worked on data analysis and developed an open-source application to compare the financial data of French departments. 
+During my internship at the finance Department of the Aude council, I worked on data analysis and developed an open-source application to compare the financial data of French departments. 
 * **Overview:** The tool processes public datasets (from the OFGL website) to create interactive dashboards, allowing for cross-analysis and comparison of financial indicators (gross savings, debt capacity) across different demographic strata.
 * **Tech Stack:** Python, Pandas, Streamlit, Data Visualization.
 
